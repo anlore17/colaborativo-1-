@@ -312,6 +312,12 @@ nav{
 	border-radius: 0px 0px 10px 10px;
 	color: #006680;
 }
+.contenido{
+	font-family: 'Franklin gothic Book';
+	color: white;
+	font-size: 16px;
+	text-align: center;
+}
 ul{
 margin: auto;
 padding-top: 4px;
