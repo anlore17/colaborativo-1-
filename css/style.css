@@ -398,7 +398,7 @@ p {
 .contenido{
 	height: 250px;
 	width: 700px;
-	padding-left: 15px;
+	margin-left: 15px;
 }
 
 .seccion{
