@@ -404,8 +404,7 @@ p {
 .seccion{
 	height: 249px;
 	width: 235px;
-	float: left;
-	background-color: #f90;
+	float: left; 
 	border: solid 1px #000;
 	font-family: 'Franklin Gothic Heavy', arial;
 }
@@ -413,8 +412,7 @@ p {
 	height: 100px;
 	width: 100px;
 	margin: auto;
-	padding-top: 10px;
-	border: solid 1px #333;
+	padding-top: 10px; 
 	border-radius: 5px;
 }
 .descripcion{
