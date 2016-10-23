@@ -395,3 +395,8 @@ p {
 	font-weight: normal;
 	color: #333;
 }
+.contenido{
+	height: 300px;
+	width: 200px;
+	background-color: #f90;
+}
