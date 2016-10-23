@@ -406,4 +406,5 @@ p {
 	width: 220px;
 	float: left;
 	background-color: #f90;
+	border: solid 1px #000;
 }
