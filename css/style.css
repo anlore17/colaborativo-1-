@@ -431,3 +431,37 @@ p {
 	font-size: 12px;
 	color: #333;
 }
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 970px;}
+.menu:link{
+	color: #FFF;
+	text-decoration: none;
+}
+.menu:visited{
+	color: #FFF;
+	text-decoration: none;
+}
+.menu:hover{
+	color: #FF6600;
+	text-decoration: none;
+	/*text-shadow: 0 0 13px white;*/
+}
+.menu:active{
+	color: #003F5E;
+	text-decoration: none;
+}
+
+.menu li:hover ul {
+        display:block;
+        position: absolute;
+        padding: 0;
+        margin:-16px;
+        margin-top:10px;
+        width: 10px;
+        float: none;
+                }
+.menu  li ul {
+        display:none;
+        position:absolute;
+        min-width:130px;
+        }
