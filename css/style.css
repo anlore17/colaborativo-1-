@@ -406,7 +406,6 @@ p {
 	width: 235px;
 	float: left; 
 	border: solid 1px #000;
-	font-family: 'Franklin Gothic Heavy', arial;
 }
 .foto{
 	height: 100px;
@@ -415,10 +414,20 @@ p {
 	padding-top: 10px; 
 	border-radius: 5px;
 }
-.descripcion{
-	height: 100px;
+.descripcion_nombre{
+	height: 20px;
 	width: 230px;
 	margin: auto;
-	padding-top: 5px;  
+	padding-top: 3px;  
+	font-family: 'Franklin Gothic Heavy', arial;
+	color: #333;
+}
+.descripcion{
+	height: 70px;
+	width: 230px;
+	margin: auto;
+	padding-top: 3px; 
+	font-family: 'Franklin Gothic Heavy', arial;
+	font-size: 8px;
 	color: #333;
 }
