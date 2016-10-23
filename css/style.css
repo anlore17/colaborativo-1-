@@ -417,3 +417,9 @@ p {
 	border: solid 1px #333;
 	border-radius: 5px;
 }
+.descripcion{
+	height: 100px;
+	width: 230px;
+	margin: auto;
+	padding-top: 5px;  
+}
