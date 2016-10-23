@@ -396,7 +396,13 @@ p {
 	color: #333;
 }
 .contenido{
-	height: 300px;
-	width: 200px;
-	background-color: #f90;
+	height: 250px;
+	width: 700px;
+	margin:auto;
+}
+
+.seccion{
+	height: 249px;
+	width: 220px;
+	float: left;
 }
